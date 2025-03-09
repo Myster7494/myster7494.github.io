@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2881d6f3-fb95-48f8-9a56-f0ab722cbce9" name="更改" comment="feat">
+    <list default="true" id="2881d6f3-fb95-48f8-9a56-f0ab722cbce9" name="更改" comment="fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(components)/FeaturedCard.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(components)/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(components)/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(components)/Navbar.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/head.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/minecraft.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/minecraft.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +126,7 @@
       <workItem from="1739672668046" duration="110000" />
       <workItem from="1740839757211" duration="424000" />
       <workItem from="1741447699303" duration="3381000" />
-      <workItem from="1741502754188" duration="6019000" />
+      <workItem from="1741502754188" duration="6928000" />
     </task>
     <task id="LOCAL-00001" summary="feat:dark mode">
       <option name="closed" value="true" />
@@ -206,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741507428230</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fix">
+      <option name="closed" value="true" />
+      <created>1741508912985</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741508912985</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +222,7 @@
     <MESSAGE value="feat: change order" />
     <MESSAGE value="feat: modify syllabus" />
     <MESSAGE value="feat" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>
