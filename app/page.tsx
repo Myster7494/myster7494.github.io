@@ -8,14 +8,15 @@ import {items, tagline} from "../data/data";
 export default function Home() {
     return (
         <>
-            <div className="flex flex-col items-center justify-center w-full max-w-xl mx-auto">
+            <div style={{padding: "15px"}}
+                 className="flex flex-col items-center justify-center w-full max-w-3xl mx-auto">
                 <section className="flex flex-col items-center gap-5 justify-center my-10">
                     <Avatar/>
-                    <div className="text-2xl font-semibold">
-                        <a>Myster 神秘陌生人</a>
-                    </div>
 
-                    <div className="text-amber-300 text-l flex justify-between gap-5">
+                    <a className="text-3xl font-semibold">Myster 神祕陌生人</a>
+                    <a style={{lineHeight: "0.5rem"}}>邱顯智</a>
+
+                    <div className="text-amber-300 text-xl flex justify-between gap-5">
                         {tagline.map((item, index) => (
                             <div
                                 className="text-center font-thin"
@@ -26,7 +27,7 @@ export default function Home() {
                     </div>
                 </section>
 
-                <a>現為桃園市立桃園高級中等學校二年級學生，並擔任學校資訊社教學。</a>
+                <a>現為桃園市立桃園高級中等學校二年級學生，並擔任學校資訊社 113 學年度教學。</a>
 
                 <div className="w-full flex gap-2 my-2 flex-col items-center justify-center pb-2 lg:pb-10">
                     <Card

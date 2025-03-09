@@ -1,8 +1,7 @@
 export const config = {
     title: "Myster 神秘陌生人",
     footer: "Made using linktreez",
-    url: "https://github.com/engageintellect/linktreez",
-    github: "https://github.com/Myster7494",
+    url: "https://github.com/engageintellect/linktreez"
 };
 
 export const tagline = ["男", "高中生", "17 歲", "程式"];

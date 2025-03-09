@@ -1,8 +1,9 @@
+import {config} from "../data/data";
+
 export default function Head() {
     return (
         <>
-            <title>engage_intellect</title>
-            <meta content="width=device-width, initial-scale=1" name="viewport"/>
+            <title>{config.title}</title>
             <meta name="description" content="Made using Next.js 13"/>
             <link rel="icon" href="/favicon.ico"/>
         </>
