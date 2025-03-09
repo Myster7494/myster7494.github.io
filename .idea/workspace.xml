@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2881d6f3-fb95-48f8-9a56-f0ab722cbce9" name="更改" comment="feat">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/minecraft.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(components)/Avatar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(components)/Avatar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/head.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/head.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(components)/FeaturedCard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(components)/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(components)/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(components)/Navbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/head.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/data/data.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/hello.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/minecraft.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/minecraft.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +132,7 @@
       <workItem from="1739672668046" duration="110000" />
       <workItem from="1740839757211" duration="424000" />
       <workItem from="1741447699303" duration="3381000" />
-      <workItem from="1741502754188" duration="4528000" />
+      <workItem from="1741502754188" duration="6019000" />
     </task>
     <task id="LOCAL-00001" summary="feat:dark mode">
       <option name="closed" value="true" />
@@ -201,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741451432888</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat">
+      <option name="closed" value="true" />
+      <created>1741507428230</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741507428230</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
