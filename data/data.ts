@@ -4,6 +4,12 @@ export const config = {
     url: "https://github.com/engageintellect/linktreez"
 };
 
+export const minecraft = {
+    title: "Minecraft Online",
+    image: "https://minecraft.wiki/images/MC_key_art_2024.jpg",
+    description: "Play Minecraft Online. Share this link to friends and play together!"
+};
+
 export const tagline = ["男", "高中生", "17 歲", "程式"];
 
 export const items = {
